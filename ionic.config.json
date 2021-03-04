@@ -1,0 +1,7 @@
+{
+  "name": "DropPack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
